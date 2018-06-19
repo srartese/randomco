@@ -10,6 +10,8 @@ Using Terminal or command line CD into project file
 
 Run 'npm init'
 
+Run 'npm install'
+
 Run 'npm run start'
 
 
@@ -38,10 +40,10 @@ There are also a few functionalities that I would have liked to do in a better w
 Some design in the components could have been done in a better way as well but instead it followed a more simplistic design.
 
 
-## Other notes
+## Other Notes
 The video used for the screen saver was a open source video provided from the link below
     https://www.videvo.net/video/coloured-smoke-on-white-13/4698/ 
 
-I also ran into the issue of Cross Origin Permission issues and solved this by using a chrome extension called Allow-Control-Allow-Origin.  The issue comes into play when posting from a localhost. 
+I also ran into the issue of Cross Origin Permission issues and solved this by using a chrome extension called Allow-Control-Allow-Origin.  The issue comes into play when posting from a localhost. By using this extension the post successfully went through.  This error can be seen in the console.
     
 
